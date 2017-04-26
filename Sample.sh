@@ -2,6 +2,6 @@
 
 Sample()
 {
-	mkdir -p "/opt/Akamai/Scripts"
+	mkdir -p "/opt/Akamai/Scripts";
 }
 Sample
